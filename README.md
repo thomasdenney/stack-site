@@ -15,4 +15,4 @@ directly to your micro:bit.
 
 ## License
 
-&copy; Alex Rogers and Thomas Denney &copy; 2018.
+&copy; Alex Rogers and Thomas Denney 2018.
